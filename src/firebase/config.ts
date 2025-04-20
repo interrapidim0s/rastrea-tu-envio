@@ -9,7 +9,7 @@ const firebaseConfig = {
   projectId: "interrapidisimo-82450",
   storageBucket: "interrapidisimo-82450.firebasestorage.app",
   messagingSenderId: "692971886777",
-  appId: "1:692971886777:web:747a19eb399dc743c3e368"
+  appId: "1:692971886777:web:9c911cda76f14033c3e368"
 };
 
 const app = initializeApp(firebaseConfig);

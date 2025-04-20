@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { SearchForm } from "./components/SearchForm";
 import { TrackingResult } from "./components/TrackingResult";
-import { Admin } from "./pages/Admin";
+import { Admin } from "./components/Admin";
 
 export default function App() {
   return (
