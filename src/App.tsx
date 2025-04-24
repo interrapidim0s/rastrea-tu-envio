@@ -5,7 +5,7 @@ import { Admin } from "./components/Admin";
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={"/rastrea-tu-envio/"}>
       <Routes>
         <Route path="/" element={<SearchForm />} />
         <Route path="/resultado/:guia" element={<TrackingResult />} />

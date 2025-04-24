@@ -1,4 +1,4 @@
-import logo from '../assets/img/interrapidisimo-1.png';
+import logo from '/img/interrapidisimo-1.png';
 
 export function Footer() {
   return (

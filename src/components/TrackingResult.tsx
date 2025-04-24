@@ -8,7 +8,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Progress } from "@/components/ui/progress";
 import { MapPin, Package, Truck, Loader2 } from "lucide-react";
 import { Envio } from "@/types/envios";
-import logo from "../assets/img/interrapidisimo-1.png";
+import logo from "/img/interrapidisimo-1.png";
 import { Footer } from '@/components/Footer';
 
 export function TrackingResult() {

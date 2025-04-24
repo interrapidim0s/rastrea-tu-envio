@@ -1,7 +1,7 @@
 import { FormEvent, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import logo from '../assets/img/interrapidisimo-1.png';
-import bgPattern from '../assets/img/recogidasbesktop-1.jpg';
+import logo from '/img/interrapidisimo-1.png';
+import bgPattern from '/img/recogidasbesktop-1.jpg';
 import { Footer } from '@/components/Footer';
 
 export function SearchForm() {
